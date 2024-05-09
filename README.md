@@ -4,6 +4,7 @@ This neovim (nvim) config has been made after referencing multiple different nvi
 
 ## File Structure 
 
+```
 -> lua
     -> zohaib (username)
         -> core
@@ -14,3 +15,4 @@ This neovim (nvim) config has been made after referencing multiple different nvi
         -> plugins
         -- lazy.lua
     -- init.lua
+```
